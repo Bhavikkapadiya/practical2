@@ -1,0 +1,5 @@
+Product Name,Product Category,Product  SKU,Product  Description,Product Price,Qauntity
+P1,cat 1,test sku,test description,100,1
+P2,cat 2 | cat 3,sku 2,test description 1,200,2
+P3,cat 2 | cat 3,sku 3,testing desc 2,300,3
+P4,cat 6 | cat 5,sku 5,test desc 3,400,2
