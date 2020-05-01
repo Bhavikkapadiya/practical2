@@ -1,0 +1,3 @@
+Import database laravel.sql, Then run with php artisan serve, Then login with below credentials,
+Username - admin@admin.com Password - password
+
